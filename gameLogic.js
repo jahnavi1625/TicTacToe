@@ -65,7 +65,7 @@ function restart()
         box.innerText='';
         box.style.backgroundColor='';
     })
-    playerText='Tic Tac Toe';
+    playerText.innerText='Tic Tac Toe';
     currentPlayer=txtO;
     
 }
